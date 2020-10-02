@@ -4,7 +4,7 @@ This is a project to control 3D objects by hand in augmented reality.
 
 ## Journal
 
-Download([pdf](./Arvis_Journal?raw=true))
+Link([here](https://github.com/ryulurala/Arvis/blob/master/Arvis_Journal.pdf))
 
 ## Generate virtual hand
 
